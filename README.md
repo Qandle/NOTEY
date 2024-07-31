@@ -1,0 +1,2 @@
+# NOTEY
+Notify Discord Bot !
